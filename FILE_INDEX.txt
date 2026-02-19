@@ -1,0 +1,12 @@
+Bundle
+- downloads/stock_streamlit_app21_bundle.zip
+  size_bytes: 2422664
+  sha256: 141f166e62484206898db889d1c0dba7eacab8e2aa29c62e59f435646ff6c25c
+
+Files
+- .vscode/settings.json | 104 bytes | sha256=416dc1ff217b03e835d56f22dd84dcf63a0b4cae79464ffcffbb32b87006e01b
+- README.md | 29 bytes | sha256=c62a5cae1790a3620d8e764e53ce80fba9b10c4acb639eaaca76310a8945c2e5
+- app_hardened (2).py | 27503 bytes | sha256=440f3079858f400adf4e0f12ee097b062273ce3705b17f640613fb9a70f26f21
+- app_hardened.py | 1 bytes | sha256=01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+- hybrid_models (1).joblib | 8947214 bytes | sha256=c05a9ec7cfeacaaa45e5c85dd5bf0c2dd0daf7730f43e581d910ad4bd406f294
+- requirements (1).txt | 157 bytes | sha256=69287997b5a3bfebabd35c957c032b7ddd30b52a4acedbf9669b928018be5f7f
